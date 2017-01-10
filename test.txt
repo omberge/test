@@ -2,3 +2,4 @@ add some text
 Add some more text to this document
 Added text at work
 Added by BJ
+Test av meg
